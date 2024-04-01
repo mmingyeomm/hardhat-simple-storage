@@ -43,6 +43,7 @@ const verify = async (contractAddress, args) => {
       console.log(e)
     }
   }
+  
 }
 
 // main
